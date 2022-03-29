@@ -42,5 +42,5 @@ DQLab Data Analyst Career Track is one of so many programs that DQLab has. It co
 ## **8.Data Analyst Project: Business Decision Research**
 [Data Analyst Project: Business Decision Research](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Data%20Analyst%20Project%20Business%20Decision%20Research)
 
-###After finished all the courses, I got the certificate from DQLab
+### After finished all the courses, I got the certificate from DQLab
 [Data Analyst Python Track Certificate](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNCOTTJ/TRACK)
