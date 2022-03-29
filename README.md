@@ -14,3 +14,11 @@ DQLab Data Analyst Career Track is one of so many programs that DQLab has. It co
 [Part 3](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Python%20for%20Data%20Professional%20Beginner/Part%203)
 
 ## **SQL Fundamental**
+[Fundamental SQL Using SELECT Statement](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Fundamental%20SQL/1.%20Fundamental%20SQL%20Using%20SELECT%20Statement)
+
+[Fundamental SQL Using FUNCTION and GROUP BY](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Fundamental%20SQL/2.%20Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY)
+
+[Fundamental SQL Using INNER JOIN and UNION](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Fundamental%20SQL/3.%20Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION)
+
+## **Exploratory Data Analysis with Python for Beginner**
+[Exploratory Data Analysis with Python](https://github.com/Salsanursabilanw/dqlabpythoncareertrack/tree/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner)
